@@ -1,0 +1,3 @@
+{
+    "message":"After running fetch_data.py, you will get blacklist.json file",
+    "usage":"You'll be using it in lookup.py for checking out the IPs"}

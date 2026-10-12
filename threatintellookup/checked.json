@@ -1,0 +1,4 @@
+{
+    "message": "This checked.json will be generated after running lookup.py",
+    "usage": "You'll need checked.py file for final evaluation in report.py"
+}
